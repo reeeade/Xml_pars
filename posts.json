@@ -1,0 +1,52 @@
+{
+    "1 post": {
+        "title": "Conditional generative models for sampling and phase transition indication in spin systems, by Japneet Singh, Mathias S. Scheurer, Vipul Arora",
+        "link": "https://scipost.org/SciPostPhys.11.2.043",
+        "date": "2021-08-30"
+    },
+    "2 post": {
+        "title": "Symmetry meets AI, by Gabriela Barenboim, Johannes Hirn, Veronica Sanz",
+        "link": "https://scipost.org/SciPostPhys.11.1.014",
+        "date": "2021-07-15"
+    },
+    "3 post": {
+        "title": "Machine learning and quantum devices, by Florian Marquardt",
+        "link": "https://scipost.org/SciPostPhysLectNotes.29",
+        "date": "2021-05-31"
+    },
+    "4 post": {
+        "title": "Supervised learning of few dirty bosons with variable particle number, by Pere Mujal, \u00c3\u20aclex Mart\u00c3\u00adnez Miguel, Artur Polls, Bruno Juli\u00c3\u00a1-D\u00c3\u00adaz, Sebastiano Pilati",
+        "link": "https://scipost.org/SciPostPhys.10.3.073",
+        "date": "2021-03-24"
+    },
+    "5 post": {
+        "title": "Improved neural network Monte Carlo simulation, by I-Kai Chen, Matthew D. Klimek, Maxim Perelstein",
+        "link": "https://scipost.org/SciPostPhys.10.1.023",
+        "date": "2021-01-29"
+    },
+    "6 post": {
+        "title": "Neural network-based approach to phase space integration, by Matthew D. Klimek, Maxim Perelstein",
+        "link": "https://scipost.org/SciPostPhys.9.4.053",
+        "date": "2020-10-19"
+    },
+    "7 post": {
+        "title": "Detecting nematic order in STM/STS data with artificial intelligence, by Jeremy B. Goetz, Yi Zhang, Michael J. Lawler",
+        "link": "https://scipost.org/SciPostPhys.8.6.087",
+        "date": "2020-06-15"
+    },
+    "8 post": {
+        "title": "From complex to simple : hierarchical free-energy landscape renormalized in deep neural networks, by Hajime Yoshino",
+        "link": "https://scipost.org/SciPostPhysCore.2.2.005",
+        "date": "2020-04-15"
+    },
+    "9 post": {
+        "title": "Deep-learning jets with uncertainties and more, by Sven Bollweg, Manuel Haussmann, Gregor Kasieczka, Michel Luchmann, Tilman Plehn, Jennifer Thompson",
+        "link": "https://scipost.org/SciPostPhys.8.1.006",
+        "date": "2020-01-16"
+    },
+    "10 post": {
+        "title": "Fast counting with tensor networks, by Stefanos Kourtis, Claudio Chamon, Eduardo R. Mucciolo, Andrei E. Ruckenstein",
+        "link": "https://scipost.org/SciPostPhys.7.5.060",
+        "date": "2019-11-12"
+    }
+}
